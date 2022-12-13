@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey 👋, I'm [Pavan Gandhi!](https://github.com/iampavangandhi/)
+## Hey 👋, I'm [Nupur Chavan!](https://github.com/NupurChavan/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nupur-v-chavan)
 
