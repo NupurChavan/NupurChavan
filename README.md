@@ -25,7 +25,6 @@ I'm a diploma graduate in Computer Science 🎓 from Institute of Petrochemical 
 * 🌱 I’m currently learning 
   * ✨ Android Development
   * ✨ Game Development
-  * ✨ Docker
   * ✨ Web Development
 
 * My Absolute Favorites:
