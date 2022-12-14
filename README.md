@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here!
 
-I'm a diploma graduate in Computer Science 🎓 from Institute of Petrochemical Engineering,Lonere BATU 🏛.I'm currently persuing Degree in Computer Science from COEP Pune💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Android Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a diploma graduate in Computer Science 🎓 from Institute of Petrochemical Engineering,Lonere BATU 🏛.I'm currently persuing Degree in Computer Science from COEP Pune💻. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Android Development 🕸️ and working on my Web Development🤓.
 
 
 * 🌱 I’m currently learning 
